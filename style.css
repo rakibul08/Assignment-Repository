@@ -228,8 +228,9 @@ nav .btn-primary:hover{
     display: flex;
     text-align: center;
 }
-/* footer */
 
-
+.center{
+    text-align: center;
+}
 
 
