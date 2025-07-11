@@ -221,7 +221,7 @@ nav .btn-primary:hover{
 .h{
     font-size: 10px;
 }
-.sohan{
+ .sohan{
     font-size: 7px;
     font-weight: bold;
 }
@@ -232,7 +232,10 @@ nav .btn-primary:hover{
 
 .center{
     text-align: center;
-}
+} 
+
+ 
+
 
 /* footer */
 footer{
@@ -264,4 +267,34 @@ footer nav{
     text-align: center;
     justify-items: center;
     gap: 20px;
+}
+/* from */
+.newslatter{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 632px;
+    align-items: center;
+    text-align: center; 
+}
+.newslatter-h2{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.news-group{
+    margin-top:71px ;
+    gap: 10px;
+    text-align: left;
+}
+.news-group label{
+    font-size: 18px;
+    font-weight: 500;
+}
+.news-group input{
+ font-size: 18px;
+    font-weight: 500;
+} 
+textarea,textarea::placeholder{
+    font: 18px ;
 }
