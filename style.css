@@ -39,5 +39,22 @@ nav ul li{
     border: none;
     border-radius: 10px ;
 position:1008px 51.5px;
+justify-content: center
 
 }
+.banner h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #252432;
+}
+h1{
+    margin: 100px;
+    text-align: center;
+}
+.header{
+    background-image: url(Assets/Hero-bg.png);
+}
+/* .btn{
+    justify-content: space-between;
+    margin: 0 auto;;    
+} */
