@@ -119,6 +119,7 @@ nav .btn-primary:hover{
 .stats{
   background-color: #a4a1dc ;
    padding:  10px 200px  ;
+   border-radius: 10px;
 }
 .productive-users {
    background-color: #f5f7fa; 
